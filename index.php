@@ -192,7 +192,6 @@ background: #121212;
 <div class="mx-auto text-center d-flex flex-column z-3">
     <img src="/img/logo/roblox_logo.png" class="mx-auto" style="max-width: 250px;">
     <h4 class="p-1 d-inline-block" style="background: RGBA(0, 0, 0, 0.5);">did you know im right behind you?</h4>
-    <a style="background: RGBA(0, 0, 0, 0.5);" class="p-0 d-inline-block"
     <div class="d-flex flex-row flex-wrap gap-2 mx-auto mt-2">
         <a class="btn btn-primary" href="/register/">Register</a>
         <a class="btn btn-secondary" href="/login/">Login</a>
